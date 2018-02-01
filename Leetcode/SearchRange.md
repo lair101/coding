@@ -59,5 +59,5 @@ public int[] searchRange(int[] nums, int target) {
 
         return new int[]{left, right};
     }
-    
+
 ```
